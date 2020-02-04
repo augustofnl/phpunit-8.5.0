@@ -38,7 +38,7 @@ RUN apk add --update \
     php-json \
     php-posix \
     php-gd \
-    php-xdebug \
+    #php-xdebug \
     php-pgsql \
     php-sqlite3 \
     php-pdo \
