@@ -45,7 +45,8 @@ RUN apk add --update \
     php-pdo_mysql \
     php-pdo_pgsql \
     php-pdo_sqlite \
-    php-pcntl
+    php-pcntl \
+    php-intl
     #php-simplexml \
     #php-xmlwriter \
     #php-tokenizer \
